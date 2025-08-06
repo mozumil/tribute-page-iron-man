@@ -38,3 +38,7 @@ This project is open-source and free to use for educational purposes.
 ---
 
 Made with ❤️ by [@mozumil](https://github.com/mozumil)
+
+## 🧑‍💻 Author
+
+Built with 💻 by [@hiMuzammil](https://x.com/hiMuzammil)
