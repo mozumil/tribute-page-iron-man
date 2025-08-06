@@ -17,7 +17,7 @@ The page is dedicated to **Iron Man**, one of the most iconic superheroes from M
 
 ## 📸 Preview
 
-![Iron Man Tribute Page Screenshot](/home/mirza/GitHub/Tribute-Page-Iron-Man/Screenshot.png)
+![Iron Man Tribute Page Screenshot](Screenshot.png)
 
 ## 🚀 Live Demo
 
