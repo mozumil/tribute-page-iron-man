@@ -29,11 +29,7 @@ fcc-tribute-page/
 ├── index.html
 ├── styles.css
 └── README.md
-
-perl
-Copy
-Edit
-
+ 
 ## 📜 License
 
 This project is open-source and free to use for educational purposes.
