@@ -25,11 +25,16 @@ The page is dedicated to **Iron Man**, one of the most iconic superheroes from M
 
 ## 📁 Project Structure
 
-fcc-tribute-page/
+Tribute-Page-Iron-Man/
 ├── index.html
 ├── styles.css
+├── Screenshot.png
 └── README.md
  
 ## 📜 License
 
 This project is open-source and free to use for educational purposes.
+
+---
+
+Made with ❤️ by [@mozumil](https://github.com/mozumil)
